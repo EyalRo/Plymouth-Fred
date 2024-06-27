@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=fred
+Description=display fred
+Comment=created as a simple test
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/fred
+ScriptFile=/usr/share/plymouth/themes/fred/fred.script
