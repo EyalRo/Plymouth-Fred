@@ -1,7 +1,5 @@
-## Author : Aditya Shakya (adi1090x)
-## Mail : adi1090x@gmail.com
-## Github : @adi1090x
-## Reddit : @adi1090x
+## Author : Stags
+## Github : @EyalRo
 
 // Screen size
 screen.w = Window.GetWidth(0);
@@ -28,7 +26,7 @@ state.time = 0.0;
 //--------------------------------- Refresh (Logo animation) --------------------------
 
 # cycle through all images
-for (i = 0; i < 50; i++)
+for (i = 0; i < 182; i++)
   flyingman_image[i] = Image("progress-" + i + ".png");
 flyingman_sprite = Sprite();
 
